@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi there, I'm [Your Name]!
+
+🚀 **Embedded Systems Engineer | IoT Enthusiast | Firmware Developer**
+
+---
+
+### 💻 About Me:
+- 🔧 Passionate about designing and developing robust embedded systems and firmware solutions.
+- 📡 Experienced in microcontrollers, RTOS, low-power systems, and IoT applications.
+- 🛠️ Proficient in C/C++, Python, and assembly languages.
+- 📚 Lifelong learner in embedded Linux, edge computing, and real-time applications.
+
+---
+
+
+### 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+
+### 📫 Let's Connect:
+- 📧 Email: [bnmssamohamed@gmail.com](mailto:bnmssamohamed@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ben-moussa/)
+
+
+---
+
+Thanks for visiting! Feel free to explore my repositories, and let's collaborate on exciting embedded projects! 🚀
