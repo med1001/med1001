@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Mohamed!
 
 🚀 **Embedded Systems Engineer | IoT Enthusiast | Firmware Developer**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=med1001&show_icons=true&hide_title=true)
 
 ### 📫 Let's Connect:
 - 📧 Email: [bnmssamohamed@gmail.com](mailto:bnmssamohamed@gmail.com)
