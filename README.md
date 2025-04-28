@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ---
 
-Thanks for visiting! Feel free to explore my repositories, and let's collaborate on exciting embedded projects! 🚀
+Thanks for visiting! Feel free to explore my repositories, and let's collaborate on exciting projects! 🚀
