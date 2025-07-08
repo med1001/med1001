@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🔧 Passionate about designing and developing robust embedded systems and firmware solutions.
 - 📡 Experienced in microcontrollers, RTOS, low-power systems, and IoT applications.
 - 🛠️ Proficient in C/C++, Python, and assembly languages.
+- 🌐 Also interested in backend web development.
 - 📚 Lifelong learner in embedded Linux, edge computing, and real-time applications.
 
 ---
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 📫 Let's Connect:
 - 📧 Email: [bnmssamohamed@gmail.com](mailto:bnmssamohamed@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ben-moussa/)
+
 
 
 ---
