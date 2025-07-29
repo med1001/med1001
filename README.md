@@ -44,6 +44,7 @@ I enjoy solving real-world problems through embedded technologies and modern web
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
 </a>;
+
 <br/>
 
 ### 📈 GitHub Stats:
