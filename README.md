@@ -4,7 +4,7 @@
 
 <br/>
 
-### 💻 About Me:
+### 🙋‍♂️ About Me:
 I'm passionate about building intelligent systems that bridge hardware and software.  
 I enjoy solving real-world problems through embedded technologies and modern web tools.
 
@@ -19,7 +19,7 @@ I enjoy solving real-world problems through embedded technologies and modern web
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="32"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="32"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/000000" alt="Embedded Linux" width="32"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.arm.com/" target="_blank"><img src="https://cdn.simpleicons.org/arm/0052CC" alt="ARM" width="32"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@ I enjoy solving real-world problems through embedded technologies and modern web
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" width="32"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="32"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32"/>
 </a>;
 
 <br/>
