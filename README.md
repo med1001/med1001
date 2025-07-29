@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there, I'm Mohamed!
 
-🚀 **Embedded Systems Engineer | IoT Enthusiast | Firmware Developer**
+🚀 **Software Engineer | IoT Enthusiast | Firmware Developer**
 
 ---
 
